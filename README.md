@@ -53,7 +53,7 @@ This repository hosts a state-of-the-art, multi-disciplinary pipeline at the int
 ### Quick Start
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yourusername/AI_DE_QC_ML_AR.git](https://github.com/yourusername/AI_DE_QC_ML_AR.git)
+   git clone [https://github.com/yourusername/AI_DE_QC_ML_AR.git](https://github.com/NeerajVyas/AI_DE_QC_ML_AR.git)
    cd AI_DE_QC_ML_AR![02 1](https://markdownviewer.pages.dev/api/image/y-Owb1yC8_jOjT660g2YOFPl)
 
 ![01 2](https://markdownviewer.pages.dev/api/image/u3E13NWSai3DmtHu9xDT-Ues)
