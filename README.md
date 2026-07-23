@@ -36,7 +36,7 @@ This repository hosts a state-of-the-art, multi-disciplinary pipeline at the int
 
 ## 📊 Dashboard & Interface
 
-![Pipeline Controls & Top 15 Matrix](01.jpg)
+![Pipeline Controls & Top 15 Matrix](Streamlit_view.jpg)
 *The local pipeline interface highlighting the Quantum-Ready Top 15 NSE Candidates and Covariance Matrix calculations.*
 
 ---
