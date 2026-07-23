@@ -36,7 +36,7 @@ This repository hosts a state-of-the-art, multi-disciplinary pipeline at the int
 
 ## 📊 Dashboard & Interface
 
-![Pipeline Controls & Top 15 Matrix](01.jpeg)
+![Pipeline Controls & Top 15 Matrix](01.jpg)
 *The local pipeline interface highlighting the Quantum-Ready Top 15 NSE Candidates and Covariance Matrix calculations.*
 
 ---
@@ -56,4 +56,4 @@ This repository hosts a state-of-the-art, multi-disciplinary pipeline at the int
    git clone [https://github.com/yourusername/AI_DE_QC_ML_AR.git](https://github.com/NeerajVyas/AI_DE_QC_ML_AR.git)
    cd AI_DE_QC_ML_AR![02 1](https://markdownviewer.pages.dev/api/image/y-Owb1yC8_jOjT660g2YOFPl)
 
-![01 2](https://markdownviewer.pages.dev/api/image/u3E13NWSai3DmtHu9xDT-Ues)
+![ 2](https://markdownviewer.pages.dev/api/image/u3E13NWSai3DmtHu9xDT-Ues)
