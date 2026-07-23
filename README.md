@@ -45,6 +45,10 @@ This repository hosts a state-of-the-art, multi-disciplinary pipeline at the int
 
 ### Prerequisites
 *   **Python 3.10+**
+*   **python app.py+**
+*   **pip install streamlit polars yfinance pandas numpy requests transformers torch finnhub-python torchvision feedparser**
+*   **Execute —> streamlit run app.py**
+*   **http://localhost:8501**
 *   **Docker & Docker Compose** (Optimized for fast local execution, including tailored configurations for Apple Silicon / M1 Max architectures)
 *   **Apache Airflow**
 *   IBM Quantum API Token
