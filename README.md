@@ -1,6 +1,6 @@
 # 🌌 AI_DE_QC_ML_AR: Quantum-Enhanced Trading & Data Pipeline
 
-![Quantum Architecture Overview](02.jpeg)
+![Quantum Architecture Overview](Dream_Project.jpeg)
 
 ## 📖 Project Overview
 This repository hosts a state-of-the-art, multi-disciplinary pipeline at the intersection of **Artificial Intelligence, Data Engineering, Quantum Computing, Machine Learning, and Augmented Reality**. It is designed to extract data from 5000+ companies, run sentiment analysis across major financial news outlets, and leverage cutting-edge Quantum Algorithms to make risk-averse, automated trading decisions.
